@@ -26,7 +26,7 @@ params:
   showToc: true
   showPostNavLinks: true
   homeInfoParams:
-    Title: Hi there!
+    Title: Hello, world!
     Content: I'm a full-stack web developer in the Seattle area
   socialIcons:
     - name: Twitter
