@@ -27,7 +27,7 @@ params:
   showPostNavLinks: true
   homeInfoParams:
     Title: Hello, world!
-    Content: I'm a full-stack web developer in the Seattle area
+    Content: I'm a full-stack web developer in the Seattle area.
   socialIcons:
     - name: Twitter
       url: https://twitter.com/rakenodiax
