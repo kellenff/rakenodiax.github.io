@@ -1,25 +1,3 @@
-[submodule "themes/m10c"]
-	path = themes/m10c
-	url = https://github.com/vaga/hugo-theme-m10c.git
-[submodule "themes/terminal"]
-	path = themes/terminal
-	url = https://github.com/panr/hugo-theme-terminal.git
-
-[submodule "hello-friend"]
-	path = themes/hello-friend
-	url = https://github.com/panr/hugo-theme-hello-friend.git
-[submodule "themes/tale"]
-	path = themes/tale
-	url = https://github.com/EmielH/tale-hugo.git
-[submodule "themes/kellenfujimoto"]
-	path = themes/kellenfujimoto
-	url = https://github.com/rakenodiax/blank.git
-[submodule "themes/eureka"]
-	path = themes/eureka
-	url = https://github.com/wangchucheng/hugo-eureka.git
-[submodule "themes/dimension"]
-	path = themes/dimension
-	url = https://github.com/your-identity/hugo-theme-dimension.git
 [submodule "themes/papermod"]
 	path = themes/papermod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
