@@ -44,6 +44,7 @@ params:
   theme_config:
     back_home_text: Home
     show_description: true
+  plausibleDomain: 'kellenfujimoto.com'
 menu:
   main:
     - name: Posts
